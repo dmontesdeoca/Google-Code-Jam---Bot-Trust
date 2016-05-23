@@ -5,7 +5,7 @@
 #include <fstream>
 using namespace std;
 /**
-ifstream infile("A-small-practice.in");     // file it is reading from
+ifstream infile("A-small-practice.in");       // file it is reading from
 ofstream outfile("output_small.txt");         // file it is printing to
 **/
 ifstream infile("A-large-practice.in");       // file it is reading from
