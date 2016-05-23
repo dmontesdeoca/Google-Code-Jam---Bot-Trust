@@ -1,7 +1,6 @@
 // Denise Montesdeoca Project 2
 #include <iostream>
 #include <cmath>
-#include <cstdlib>
 #include <fstream>
 using namespace std;
 /**
